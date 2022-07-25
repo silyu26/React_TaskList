@@ -34,6 +34,6 @@ Start a new terminal and go to the project frontend
 Start the frontend
 
 ```bash
-  npm Start
+  npm start
 ```
 
